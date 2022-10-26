@@ -1,5 +1,3 @@
-# amoosol.com
-
 <html>
     <head>
         <title>amoosol.com</title>
